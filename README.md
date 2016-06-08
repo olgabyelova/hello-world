@@ -1,2 +1,3 @@
 # hello-world
-test repository
+test repository.
+additional text in readme
